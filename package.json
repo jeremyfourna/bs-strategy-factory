@@ -12,7 +12,7 @@
     "bs-ball": "0.0.1",
     "bs-court-dimensions": "0.0.1",
     "bs-movement": "0.0.1",
-    "bs-player-positions": "0.0.1",
+    "bs-player-positions": "0.0.2",
     "ramda": "^0.24.1"
   }
 }
