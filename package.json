@@ -1,0 +1,18 @@
+{
+  "name": "bs-strategy-factory",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Fourna <jeremyfourna@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bs-ball": "0.0.1",
+    "bs-court-dimensions": "0.0.1",
+    "bs-movement": "0.0.1",
+    "bs-player-positions": "0.0.1",
+    "ramda": "^0.24.1"
+  }
+}
