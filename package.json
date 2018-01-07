@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jeremy Fourna <jeremyfourna@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "bs-ball": "0.0.1",
-    "bs-court-dimensions": "0.0.1",
+    "bs-ball": "0.1.0",
+    "bs-court-dimensions": "0.1.0",
     "bs-movement": "0.0.1",
     "bs-player-positions": "0.0.2",
     "ramda": "^0.24.1"
