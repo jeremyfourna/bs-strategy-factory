@@ -94,4 +94,4 @@ function strategyCreator(domElement, wishedZoom, players, ballHolder, listOfMove
   playMovements(generatedStrategy);
 }
 
-exports.strategyCreator = strategyCreator;
+exports.strategyCreator = R.curry(strategyCreator);
